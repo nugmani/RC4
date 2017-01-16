@@ -1,0 +1,8 @@
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\bin\Release\RC4.exe
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\bin\Release\RC4.pdb
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Release\ResolveAssemblyReference.cache
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Release\RC4.Form1.resources
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Release\RC4.Properties.Resources.resources
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Release\RC4.csproj.GenerateResource.Cache
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Release\RC4.exe
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Release\RC4.pdb

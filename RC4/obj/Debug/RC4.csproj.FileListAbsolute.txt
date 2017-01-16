@@ -1,0 +1,15 @@
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Debug\RC4.Form1.resources
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Debug\RC4.Properties.Resources.resources
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Debug\RC4.csproj.GenerateResource.Cache
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\bin\Debug\RC4.exe
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\bin\Debug\RC4.pdb
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Debug\RC4.exe
+C:\Users\HOME\Desktop\Учеба\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Debug\RC4.pdb
+F:\HOME 05-06-15\УГАТУ\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Debug\RC4.exe
+F:\HOME 05-06-15\УГАТУ\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Debug\RC4.pdb
+F:\HOME 05-06-15\УГАТУ\Методы и средства ЗИ\Лаба №2\RC4\RC4\bin\Debug\RC4.exe
+F:\HOME 05-06-15\УГАТУ\Методы и средства ЗИ\Лаба №2\RC4\RC4\bin\Debug\RC4.pdb
+F:\HOME 05-06-15\УГАТУ\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Debug\RC4.Form1.resources
+F:\HOME 05-06-15\УГАТУ\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Debug\RC4.Properties.Resources.resources
+F:\HOME 05-06-15\УГАТУ\Методы и средства ЗИ\Лаба №2\RC4\RC4\obj\Debug\RC4.csproj.GenerateResource.Cache
